@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NumbersInfoApp</string>
+    <string name="something_went_wrong">Something went wrong :(</string>
+    <string name="to_home_screen">To home screen</string>
+    <string name="empty_response_from_api">Empty response from API</string>
+    <string name="error">Error: %1$s</string>
+    <string name="exception">Exception: %1$s</string>
+    <string name="get_fact">Get fact</string>
+    <string name="get_fact_about_random_num">Get fact about random num</string>
+    <string name="or">OR</string>
+    <string name="enter_number">Enter number</string>
+</resources>
